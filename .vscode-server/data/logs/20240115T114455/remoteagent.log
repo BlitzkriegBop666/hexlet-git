@@ -1,0 +1,18 @@
+2024-01-15 11:44:55.728 [info] 
+
+
+
+
+2024-01-15 11:44:55.728 [info] Extension host agent started.
+2024-01-15 11:44:55.729 [info] Started initializing default profile extensions in extensions installation folder. file:///home/blitzkriegbop/.vscode-server/extensions
+2024-01-15 11:44:55.765 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/blitzkriegbop/.vscode-server/extensions
+2024-01-15 11:44:56.277 [info] [127.0.0.1][140a4ce8][ManagementConnection] New connection established.
+2024-01-15 11:44:56.767 [info] [127.0.0.1][fa08b3d1][ExtensionHostConnection] New connection established.
+2024-01-15 11:44:56.781 [info] [127.0.0.1][fa08b3d1][ExtensionHostConnection] <2754> Launched Extension Host Process.
+2024-01-15 11:45:31.423 [info] [127.0.0.1][140a4ce8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-15 11:45:31.517 [info] [127.0.0.1][fa08b3d1][ExtensionHostConnection] <2754> Extension Host Process exited with code: 0, signal: null.
+2024-01-15 11:45:34.349 [info] [127.0.0.1][ef8734b3][ManagementConnection] New connection established.
+2024-01-15 11:45:36.032 [info] [127.0.0.1][6da82cf2][ExtensionHostConnection] New connection established.
+2024-01-15 11:45:36.043 [info] [127.0.0.1][6da82cf2][ExtensionHostConnection] <2904> Launched Extension Host Process.
+2024-01-15 12:00:26.776 [info] [127.0.0.1][ef8734b3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-15 12:00:26.925 [info] [127.0.0.1][6da82cf2][ExtensionHostConnection] <2904> Extension Host Process exited with code: 0, signal: null.

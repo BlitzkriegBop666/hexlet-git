@@ -1,0 +1,10 @@
+const brainGames = require("./index");
+
+const startGame = () => {
+	console.log("Welcome to the Brain Games!");
+	const game = brainGames.getRandomeGame();
+	console.log(game.name);
+	game.start();
+};
+
+startGame();

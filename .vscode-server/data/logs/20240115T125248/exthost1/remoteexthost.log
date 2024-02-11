@@ -1,0 +1,16 @@
+2024-01-15 12:52:57.547 [info] Extension host with pid 623 started
+2024-01-15 12:52:57.612 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2024-01-15 12:52:57.613 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-15 12:52:58.078 [info] Lock '/home/blitzkriegbop/.vscode-server/data/User/workspaceStorage/6dea6f6e67a96ffee4a0d8eb6530ae5a/vscode.lock': Lock acquired.
+2024-01-15 12:52:58.912 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-15 12:52:59.079 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-15 12:52:59.080 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-15 12:53:00.834 [info] Eager extensions activated
+2024-01-15 12:53:00.835 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-15 12:53:00.835 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-15 12:55:35.976 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-01-15 12:55:36.812 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-01-15 12:55:58.542 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-01-15 19:27:02.330 [info] Extension host terminating: received terminate message from renderer
+2024-01-15 19:27:02.333 [info] Lock '/home/blitzkriegbop/.vscode-server/data/User/workspaceStorage/6dea6f6e67a96ffee4a0d8eb6530ae5a/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-01-15 19:27:02.882 [info] Extension host with pid 623 exiting with code 0

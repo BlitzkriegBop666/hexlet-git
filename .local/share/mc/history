@@ -1,0 +1,18 @@
+[save-as]
+0=/etc/nginx/sites-available/mysite1
+
+[cmdline]
+0=cd /etc
+1=touch mysite
+2=
+
+[Dir Hist New Right Panel]
+0=/home/blitzkriegbop
+
+[Dir Hist New Left Panel]
+0=/home/blitzkriegbop
+1=/etc
+2=/etc/nginx/conf.d
+3=/etc/nginx/sites-enabled
+4=/etc/nginx
+5=/etc/nginx/sites-available
